@@ -7,6 +7,7 @@ Follow rules 1 & 2.
 1. **Never ever ever** commit directly to develop.
 2. **Never ever ever** commit directly to develop.
 
+#### Initialization:
 Create a new branch with the following schema:
 ```
 Initials__FeatureComponent

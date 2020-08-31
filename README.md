@@ -14,7 +14,7 @@ Initials__FeatureComponent
 ```
 If I were making the navbar, I'd create my branch like so:
 ```
-git checkout -b DE_Navbar
+git checkout -b DE__Navbar
 ```
 #### CSS:
 To avoid conflicts, always use the component name as a class/id prefix. Going back to our navbar example:
